@@ -18,9 +18,7 @@ export default {
   name: 'App',
   data(){
     return{
-      msg: 'Hello world!!!',
       todolist:[],
-      saveBtn:0,
       list:'',
       show: true,
     }
